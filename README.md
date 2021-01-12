@@ -172,6 +172,8 @@ msbuild IO.RcPeru.sln && \
     mono .bin/IO.RcPeru.Test/bin/Debug/IO.RcPeru.Test.dll
 
 ```
+---
+[CONDICIONES DE USO, REPRODUCCIÓN Y DISTRIBUCIÓN](https://github.com/APIHub-CdC/licencias-cdc)
 
 [1]: https://dotnet.microsoft.com/download
 [2]: https://www.mono-project.com/download/stable/#download-win
