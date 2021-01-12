@@ -13,12 +13,14 @@ Es una solución que produce ingresos puntuales de una persona natural.
     - nuget
     - mono-devel
     - mono-xbuild
+    - wget
 
 ```sh
 #ejemplo para instalar las dependencias adicionales
 apt install nuget
 apt install mono-devel
 apt install mono-xbuild
+apt install wget
 ```
 
 ## Guía de inicio
