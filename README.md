@@ -117,7 +117,7 @@ Es importante editar el archivo llamado Config.xml que se encuentra en la **/pat
 
 ### Paso 6. Capturar los datos de la petición
 
-Los siguientes datos a modificar se encuentran en ***IO.RcPeru.Test/Api/EFLOWApiTests.cs***
+Los siguientes datos a modificar se encuentran en ***IO.RcPeru.Test/Api/ReporteDeCrditoPerApiTests.cs***
 
 Es importante contar con el método Init() que se encargará de inicializar la url. Modificar la URL ***('the_url')*** de la petición de la variable ***basePath***, como se muestra en el siguiente fragmento de código:
 
